@@ -6,4 +6,4 @@
 
 [project 가기!](https://github.com/SRH-doit/doit-project)
 
-[project 웹사이트 가기!](http://ec2-43-200-163-219.ap-northeast-2.compute.amazonaws.com:3000)
+[project 웹사이트 가기!](http://ec2-15-164-94-206.ap-northeast-2.compute.amazonaws.com:3000/)
